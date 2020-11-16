@@ -1,12 +1,12 @@
 @font-face {
     font-family: "star wars";
-    src: url("../star_jedi/STARWARS/STARWARS.TTF");
+    src: url("../star_jedi/starjout/Starjout.ttf");
 }
 
 body {
     font-size: 20px;
     background: url("stars.jpg");
-    font-family: "star wars";
+    font-family: STARWARS;
 }
 
 header {
